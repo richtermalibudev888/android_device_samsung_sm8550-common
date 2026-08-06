@@ -1,0 +1,10 @@
+service usb_otg_switcher /system/bin/usb_otg_switcher
+    class main
+    user root
+    group root
+    seclabel u:r:recovery:s0
+
+# Start USB OTG switcher
+on boot
+    start usb_otg_switcher
+#
