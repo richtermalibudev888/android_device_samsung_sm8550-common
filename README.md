@@ -12,7 +12,7 @@
 
 ## Clone repo:
 ```bash
-git clone -b android-12.1 https://github.com/richtermalibudev888/android_device_samsung_sm8550-common.git device/samsung/sm8550-common
+git clone -b fox_12.1 https://github.com/richtermalibudev888/android_device_samsung_sm8550-common.git device/samsung/sm8550-common
 ```
 
 ## Special Thanks:
